@@ -2,3 +2,4 @@ outputs/
 verl/
 models/
 verl_demo.log
+wandb/
